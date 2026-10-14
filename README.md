@@ -8,7 +8,7 @@ Developed a scalable, production-ready data engineering and analytics pipeline t
 ##  The Architecture & Tool Ecosystem
 This advanced workflow passes data sequentially through independent nodes, utilizing each application at its absolute point of maximum strength:
 
-1. **Excel 2013 (Legacy Storage Vault):** Acts as the foundational data landing layer, locking structural tables via strict boundaries (`Ctrl + T`).
+1. **Excel (Legacy Storage Vault):** Acts as the foundational data landing layer, locking structural tables via strict boundaries (`Ctrl + T`).
 2. **Power BI Desktop (Power Query ETL Node):** Conducts visual data sanitization, stripping trailing white spaces, standardizing uppercase string syntax, and purging row duplication.
 3. **Python 3.12 & Pandas (Algorithmic Processing Core):** Executes fast mathematical logic arrays to group data and compute complex demographic customer segment fields.
 4. **Power BI Desktop (Executive Visualization Dashboard):** Compiles aggregated transactional layers into dynamic, responsive horizontal metrics charts for data storytelling.
