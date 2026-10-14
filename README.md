@@ -6,8 +6,6 @@ Developed a scalable, production-ready data engineering and analytics pipeline t
 ---
 
 ##  The Architecture & Tool Ecosystem
-![E-Commerce Customer Demographics Chart](dashboard_chart.png.png)
-
 This advanced workflow passes data sequentially through independent nodes, utilizing each application at its absolute point of maximum strength:
 
 1. **Excel 2013 (Legacy Storage Vault):** Acts as the foundational data landing layer, locking structural tables via strict boundaries (`Ctrl + T`).
@@ -20,6 +18,7 @@ This advanced workflow passes data sequentially through independent nodes, utili
 
 ##  Process Log & Automated Engineering Metrics
 * **Data Ingestion:** Extracted raw categorical, financial, and demographic matrices.
+* ![E-Commerce Customer Demographics Chart](dashboard_chart.png.png)
 * **Algorithmic Segmentation Rule (Python Core):**
   * Customers < 30 → *Young Adult (18-29)*
   * Customers < 50 → *Middle Aged (30-49)*
