@@ -6,6 +6,8 @@ Developed a scalable, production-ready data engineering and analytics pipeline t
 ---
 
 ##  The Architecture & Tool Ecosystem
+![E-Commerce Customer Demographics Chart](dashboard_chart.png)
+
 This advanced workflow passes data sequentially through independent nodes, utilizing each application at its absolute point of maximum strength:
 
 1. **Excel 2013 (Legacy Storage Vault):** Acts as the foundational data landing layer, locking structural tables via strict boundaries (`Ctrl + T`).
