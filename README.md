@@ -6,7 +6,7 @@ Developed a scalable, production-ready data engineering and analytics pipeline t
 ---
 
 ##  The Architecture & Tool Ecosystem
-![E-Commerce Customer Demographics Chart](dashboard_chart.png)
+![E-Commerce Customer Demographics Chart](dashboard_chart.png.png)
 
 This advanced workflow passes data sequentially through independent nodes, utilizing each application at its absolute point of maximum strength:
 
