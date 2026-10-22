@@ -18,13 +18,12 @@ This advanced workflow passes data sequentially through independent nodes, utili
 
 ##  Process Log & Automated Engineering Metrics
 * **Data Ingestion:** Extracted raw categorical, financial, and demographic matrices.
-* ![E-Commerce Customer Demographics Chart](dashboard_chart.png.png)
 * **Algorithmic Segmentation Rule (Python Core):**
   * Customers < 30 → *Young Adult (18-29)*
   * Customers < 50 → *Middle Aged (30-49)*
   * Customers ≥ 50 → *Senior (50+)*
 * **Pipeline Output:** Generated optimized layer `final_dashboard_ready.csv` safely stored inside a dedicated local virtual runtime environment (`env`).
-
+* ![E-Commerce Customer Demographics Chart](dashboard_chart.png.png)
 ---
 
 ##  Key Business Insights Discovered
